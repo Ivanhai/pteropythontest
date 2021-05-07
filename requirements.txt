@@ -1,0 +1,4 @@
+py-cpuinfo
+colorama
+requests
+replitdb
